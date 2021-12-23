@@ -1,0 +1,16 @@
+body {
+    background-color: brown;
+}
+blockquote, body {
+    background: lightgreen;
+    color: darkgreen;
+  }
+  #tagline { 
+      color: orange;
+    }
+    p {
+      color: cyan;
+    }
+    h2 {
+      font-size: 50px;
+    }
